@@ -1,7 +1,7 @@
 let name = "Doewil";
 let age = 14;
-let hobby = "Writing";
+let favorite color = "Blue";
 
 console.log("Name: " + name);
 console.log("Age: " + age);
-console.log("Hobby: " + hobby);
+console.log("Favorite Color: " + favorite color);
